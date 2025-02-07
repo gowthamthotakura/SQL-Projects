@@ -1,1 +1,1 @@
-# SQL-Cryptography_Projects_Repository
+# SQL-Projects_Repository
